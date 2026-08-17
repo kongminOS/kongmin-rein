@@ -35,3 +35,9 @@
 | kongmin-rein-governance | 空旻缰绳治理（AI 治理层） |
 | kongmin-rein-hub | 空旻缰绳生态中心（插件/技能生态） |
 | kongmin-rein-suite | 空旻缰绳套件（产品全家桶） |
+| kongmin-rein-board | 空旻缰绳总调度台（任务看板 + 人工审阅，Reins 核心交互） |
+| kongmin-rein-console（待建） | 空旻缰绳控制台——概念仓待建（需 admin:org token，Hermes 补） |
+| kongmin-rein-shell（待建） | 空旻缰绳壳——概念仓待建 |
+| kongmin-rein-gate（待建） | 空旻缰绳闸门——概念仓待建 |
+| kongmin-rein-governance（待建） | 空旻缰绳治理——概念仓待建 |
+| kongmin-rein-hub（待建） | 空旻缰绳生态中心——概念仓待建 |
