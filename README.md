@@ -1,38 +1,11 @@
-# Kongmin Rein
+# Kongmin Rein（空旻缰绳）
 
-A thin desktop shell that wraps the **official DeepSeek Harness web UI** into a native desktop app.
+> 品牌开源仓 · 占位。
 
-> 纯客户端壳：把官方 DeepSeek Harness Web 版封装为桌面应用。不含任何治理/插件/服务代码——它只是官方 Web UI 的窗口。
+空旻缰绳（Kongmin Rein）= 带治理能力的 DeepSeek Harness 客户端。
 
-## Why
+**当前状态**：完整产品 Open Core 化演进中（壳 MIT + 治理层 BSL 1.1）。
 
-DeepSeek Harness 的官方 Web 界面（`dsh web`，默认 `http://127.0.0.1:3080`）已经很好用。这个壳只是给你一个原生桌面窗口，而不是浏览器标签页。
+**纯壳（官方 DSH Web 版桌面封装）已独立发布**，见 [kongminOS/kongmin-dsh-desktop-shell](https://github.com/kongminOS/kongmin-dsh-desktop-shell)。
 
-## Requirements
-
-- [DeepSeek Harness](https://github.com/deepseek-ai/dsh) CLI installed: `npm install -g @deepseek-ai/dsh`
-- Node.js 20+
-
-## Usage
-
-```bash
-# 1. Start the official engine
-dsh web --port 3080
-
-# 2. Launch the shell (or build & run)
-cargo tauri dev
-```
-
-Or build a release installer:
-
-```bash
-cargo tauri build
-```
-
-## License
-
-MIT — see [LICENSE](LICENSE).
-
----
-
-*Kongmin Rein is an independent third-party wrapper. It is not affiliated with or endorsed by DeepSeek.*
+本仓库为品牌占位，内容将随产品开源进度更新。
