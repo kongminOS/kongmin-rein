@@ -23,21 +23,17 @@
 - Open Core：壳（MIT 开源）+ 治理核心（BSL 1.1 商业保护）
 - 当前版本：体验版 v0.1，持续迭代
 
-## 产品概念族（概念占位 · 2026-08-17）
+## 产品概念族（概念占位 · 2026-08-17 更新：已建四仓）
 
-> 空旻缰绳产品体系概念名先行占位（防抄袭/仿造同名）。各概念仓库将随产品开源进度建立。
+> 空旻缰绳产品体系概念名先行占位（防抄袭/仿造同名）。已建仓为概念占位，将随产品开源进度补充代码。
 
-| 概念 | 定位 |
-|------|------|
-| kongmin-rein-console | 空旻缰绳控制台（治理控制台） |
-| kongmin-rein-shell | 空旻缰绳壳（开源壳） |
-| kongmin-rein-gate | 空旻缰绳闸门（G1-G6 闸门体系） |
-| kongmin-rein-governance | 空旻缰绳治理（AI 治理层） |
-| kongmin-rein-hub | 空旻缰绳生态中心（插件/技能生态） |
-| kongmin-rein-suite | 空旻缰绳套件（产品全家桶） |
-| kongmin-rein-board | 空旻缰绳总调度台（任务看板 + 人工审阅，Reins 核心交互） |
-| kongmin-rein-console（待建） | 空旻缰绳控制台——概念仓待建（需 admin:org token，Hermes 补） |
-| kongmin-rein-shell（待建） | 空旻缰绳壳——概念仓待建 |
-| kongmin-rein-gate（待建） | 空旻缰绳闸门——概念仓待建 |
-| kongmin-rein-governance（待建） | 空旻缰绳治理——概念仓待建 |
-| kongmin-rein-hub（待建） | 空旻缰绳生态中心——概念仓待建 |
+| 概念仓 | 定位 | 状态 |
+|--------|------|------|
+| [rein-gate](https://github.com/kongminOS/rein-gate) | 空旻缰绳闸门（G0-G6 闸门体系） | ✅ 已建占位 |
+| [rein-governance](https://github.com/kongminOS/rein-governance) | 空旻缰绳治理（AI 治理层） | ✅ 已建占位 |
+| [rein-hub](https://github.com/kongminOS/rein-hub) | 空旻缰绳生态中心（插件/技能生态） | ✅ 已建占位 |
+| [rein-board](https://github.com/kongminOS/rein-board) | 空旻缰绳总调度台（任务看板+人工审阅，Reins 核心交互） | ✅ 已建占位 |
+| rein-console | 空旻缰绳控制台（治理控制台） | ⏳ 待建（避免与识海 MCP 混淆，暂缓） |
+| rein-shell | 空旻缰绳壳（开源壳） | ⏳ 已由 kongmin-dsh-desktop-shell 承担 |
+| rein-suite | 空旻缰绳套件（产品全家桶） | ⏳ 暂缓 |
+
