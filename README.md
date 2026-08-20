@@ -37,3 +37,22 @@
 | rein-shell | 空旻缰绳壳（开源壳） | ⏳ 已由 kongmin-dsh-desktop-shell 承担 |
 | rein-suite | 空旻缰绳套件（产品全家桶） | ⏳ 暂缓 |
 
+
+---
+
+## 生态导航（三库 × 治理）
+
+> Kongmin Rein 基于对 **知识库 / 记忆库 / 对话库** 三库的深度掌握做 AI 治理。公开仓库导航：
+
+| 仓 | 定位 |
+|---|---|
+| [rein-evidence](https://github.com/kongminOS/rein-evidence) | 实证数据全开源（sessionId 可溯源可复现） |
+| [ma-shuan](https://github.com/kongminOS/ma-shuan) | 密钥保险箱（Open Core: MIT+BSL） |
+| [rein-knowledge](https://github.com/kongminOS/rein-knowledge) | 知识库：搭建+精准检索 |
+| [rein-memory](https://github.com/kongminOS/rein-memory) | 记忆库：分层记忆+上下文防挤爆 |
+| [rein-collect](https://github.com/kongminOS/rein-collect) | 对话库：采集/索引/审计 |
+| [agent-gates](https://github.com/kongminOS/agent-gates) | AI 员工治理闸门协议 |
+| [kongmin-dsh-desktop-shell](https://github.com/kongminOS/kongmin-dsh-desktop-shell) | 官方 DSH 纯净桌面壳 |
+| [video-pipeline](https://github.com/kongminOS/video-pipeline) | 口播视频自动化管线 |
+
+完整生态与规划见 [kongminOS 组织页](https://github.com/kongminOS)。
