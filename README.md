@@ -11,6 +11,11 @@
 | 基础版（体验版） | Rein for DeepSeek Harness | 单根缰绳管一个 AI：体验版免费可用 |
 | 高阶版 | 空旻缰绳·总调度版（Reins） | 多根缰绳管一群 AI：总调度席 + 企业部署 |
 
+
+## 国内镜像（Gitee）
+
+- 国内镜像仓库：https://gitee.com/kongminos/kongmin-rein （免代理，国内下载/克隆更快）
+- GitHub 原仓：https://github.com/kongminOS/kongmin-rein
 ## 下载
 
 - 体验版安装包：见 [kongminOS/dsh-client-shell Releases](https://github.com/kongminOS/dsh-client-shell/releases)
